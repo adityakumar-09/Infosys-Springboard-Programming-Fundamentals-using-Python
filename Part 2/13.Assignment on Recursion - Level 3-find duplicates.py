@@ -14,4 +14,4 @@ def find_duplicates(input_list):
 
     return duplicates
 
-print(find_duplicates([1, 2, 3, 22, 33, 11, 34, 2, 34, 2, 1]))
+print(find_duplicates([12,54,68,759,24,15,12,68,987,758,25,69]))
